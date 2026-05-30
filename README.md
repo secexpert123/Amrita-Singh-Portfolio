@@ -1,6 +1,6 @@
 # Amrita-Singh-Portfolio
 # Hi, I'm Amrita Singh 
-### Cloud & ICT Engineering Student — Stockholm · Swedish Citizen
+### Cloud & ICT Engineering Student Stockholm · Swedish Citizen
 
 I'm a Cloud & ICT Engineering student at **Lernia YH Stockholm** building hands-on infrastructure projects across identity management, network security, and system automation.
 
@@ -11,7 +11,7 @@ Full-time LIA available from January 2027 (Week 2–15).
 
 ## What I Build
 
-I don't just follow tutorials — I build real systems, break them, fix them, and document why.
+I don't just follow tutorials I build real systems, break them, fix them, and document why.
 
 - **ERP systems** with REST APIs, automated testing, and database backends
 - **Active Directory infrastructure** with PowerShell automation and IGDLA access models
