@@ -26,9 +26,9 @@ I don't just follow tutorials — I build real systems, break them, fix them, an
 > Python · FastAPI · SQLAlchemy · SQLite · PowerShell · 54/54 tests passing
 
 A complete industrial ERP system for a wholesale ice cream manufacturer.  
-Built with a 4-layer architecture — terminal UI, REST API, web dashboard, and PowerShell client — all powered by the same business engine.  
+Built with a 4-layer architecture terminal UI, REST API, web dashboard, and PowerShell client all powered by the same business engine.  
 Upgraded from flat CSV files to a fully database-backed, tested, and secured platform running across Windows and Linux.  
-Developed using AI-assisted workflows — part of my standard practice across all projects.
+Developed using AI-assisted workflows part of my standard practice across all projects.
 
 ---
 
@@ -36,14 +36,14 @@ Developed using AI-assisted workflows — part of my standard practice across al
 > PowerShell · Active Directory DS · IGDLA · GPO · VLAN Segmentation
 
 Enterprise Windows Server infrastructure for EazyPro Technologies AB.  
-Features idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and IGDLA security group design — production-ready and safe to re-run.
+Features idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and IGDLA security group design production-ready and safe to re-run.
 
 ---
 
 ### [Cloud Security — Virtual Datacenter](https://github.com/secexpert123/Cloud-Security-vDC-Project)
 > Ubuntu 22.04 · Windows Server · WireGuard VPN · UFW · SSSD · Nginx
 
-Secure vDC with dual-NIC network segmentation — public web subnet isolated from internal management subnet.  
+Secure vDC with dual-NIC network segmentation public web subnet isolated from internal management subnet.  
 Ubuntu nodes joined to Windows Active Directory via SSSD/Realmd. WireGuard VPN for encrypted admin access. SSH hardening and interface-level firewall rules applied.
 
 ---
@@ -81,7 +81,7 @@ I integrate AI tools into my daily engineering workflow across every project —
 - **Infrastructure planning** — validating design decisions like IGDLA model, dual-NIC segmentation, and SQLAlchemy migration with AI before building
 - **Documentation** — using AI to write clear READMEs, architecture overviews, and technical reports
 
-This is how modern engineering teams work — and I'm already working that way.
+This is how modern engineering teams work and I'm already working that way.
 
 ---
 
@@ -102,4 +102,4 @@ Stockholm, Sweden · 🇸🇪 Swedish Citizen
 ---
 
 *Studying Cloud & ICT Engineering at Lernia YH Stockholm, Class of 2025–2027.*  
-*Available now for part-time roles and praktik — full-time LIA from January 2027.*
+*Available now for part-time roles and praktik full-time LIA from January 2027.*
