@@ -56,7 +56,7 @@ User provisioning, RBAC with least-privilege role assignment, MFA and SSPR confi
 
 ---
 
-## 🛠 Skills
+## Skills
 
 | Domain | Technologies |
 |--------|-------------|
