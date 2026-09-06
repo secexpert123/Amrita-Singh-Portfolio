@@ -1,7 +1,7 @@
 # Amrita Singh's Portfolio
 
 ## Hi, I'm Amrita
-### Cloud & ICT Engineering Student · Stockholm · Swedish Citizen
+### Cloud & ICT Engineer · Stockholm · Swedish Citizen
 
 I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation.
 
