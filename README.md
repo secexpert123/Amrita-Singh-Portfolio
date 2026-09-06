@@ -3,7 +3,7 @@
 ## Hi, I'm Amrita
 ### Cloud & ICT Engineer · Stockholm · Swedish Citizen
 
-I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation.
+I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation. I hold a bachelor's degree in Behavioral Science and I'm fluent in Swedish and English, spoken and written.
 
 **Available now** for praktik, internships, or junior IT/cloud roles across Sweden.
 Official LIA period: January-April 2027 (weeks 2-15) but I can start earlier if the timing works for you.
@@ -63,7 +63,8 @@ A complete ERP system built for a wholesale ice cream manufacturer. It has a 4-l
 | Domain | Technologies |
 |--------|-------------|
 | **Identity & Access** | Microsoft Entra ID, Active Directory DS, SSSD, RBAC, IGDLA, MFA, SSPR |
-| **Cloud** | Microsoft Azure (AZ-900), AWS, Virtuozzo Cloud, Hyper-V |
+| **Cloud & Productivity** | Microsoft Azure (AZ-900), AWS, Microsoft 365, Virtuozzo Cloud |
+| **Virtualization** | VMware, Hyper-V |
 | **Networking & Security** | WireGuard VPN, UFW, dual-NIC segmentation, SSH hardening, Nginx, Zero Trust |
 | **Operating Systems** | Ubuntu 22.04 LTS, Windows Server 2022 |
 | **Automation & IaC** | PowerShell, Python, Bash, Git/GitHub, Terraform (learning), CI/CD concepts |
