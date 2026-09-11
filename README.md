@@ -7,8 +7,7 @@ I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-o
 
 **Available now** for praktik, internships, or junior IT/cloud roles (Cloud, IT Infrastructure, IT Consulting, Technical Support or IT Testing, with a growing interest in cybersecurity), across Sweden.
 
-My background has made me incredibly adaptable. After moving to Sweden from the UK in 2019, I put all my energy into integrating smoothly learning fluent Swedish, gaining my citizenship, and building a steady career in the public sector. Transitioning into modern IT infrastructure and the technology sector is the next natural milestone for me, and it highlights my ability to jump into complex environments and get up to speed fast.
-Instead of just memorizing theory, I actively build hands-on labs 
+My background has made me incredibly adaptable. Moved to Sweden in 2019, learned Swedish, became a citizen, got permanent job as a pedagog in kommunal sektor 2022-2025 (currently on study leave). Proof that I'm a fast-learning candidate.
 
 I'm a Swedish citizen and a member of Women in Tech Sweden.
 
