@@ -6,7 +6,6 @@
 I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation. My course covers AWS, Microsoft Azure, Microsoft 365, cloud service models (IaaS/PaaS/SaaS), server virtualization (VMware, Hyper-V), and IT/network security in depth. I hold a bachelor's degree in Behavioral Science and I'm fluent in Swedish and English, spoken and written.
 
 **Available now** for praktik, internships, or junior IT/cloud roles across Sweden.
-Official LIA period: January-April 2027 (weeks 2-15) but I can start earlier if the timing works for you.
 
 I'm a Swedish citizen and a member of Women in Tech Sweden.
 
