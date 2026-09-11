@@ -5,7 +5,7 @@
 
 I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation. My course covers AWS, Microsoft Azure, Microsoft 365, cloud service models (IaaS/PaaS/SaaS), server virtualization (VMware, Hyper-V), and IT/network security in depth. I hold a bachelor's degree in Behavioral Science and I'm fluent in Swedish and English, spoken and written.
 
-**Available now** for praktik, internships, or junior IT/cloud roles across Sweden.
+**Available now** for praktik, internships, or junior IT/cloud roles (Cloud, IT Infrastructure, IT Consulting, Technical Support or IT Testing, with a growing interest in cybersecurity), across Sweden.
 
 My background has made me incredibly adaptable. After moving to Sweden from the UK in 2019, I put all my energy into integrating smoothly learning fluent Swedish, gaining my citizenship, and building a steady career in the public sector. Transitioning into modern IT infrastructure and the technology sector is the next natural milestone for me, and it highlights my ability to jump into complex environments and get up to speed fast.
 Instead of just memorizing theory, I actively build hands-on labs 
