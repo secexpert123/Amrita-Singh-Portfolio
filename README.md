@@ -1,7 +1,8 @@
 # Amrita Singh's Portfolio
 
 ## Hi, I'm Amrita
-### Cloud & ICT Engineer · Stockholm · Swedish Citizen
+### Cloud / IT Engineer | Cloud Infrastructure & Security | Interested in Cybersecurity
+### Stockholm · Swedish Citizen
 
 I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation. My course covers AWS, Microsoft Azure, Microsoft 365, cloud service models (IaaS/PaaS/SaaS), server virtualization (VMware, Hyper-V), and IT/network security in depth. I hold a bachelor's degree in Behavioral Science and I'm fluent in Swedish and English, spoken and written.
 
@@ -43,13 +44,13 @@ A hands-on lab covering the full identity lifecycle in Microsoft Entra ID user p
 *(GitHub repo: [Enterprise-Infrastructure-AD-DS](https://github.com/secexpert123/Enterprise-Infrastructure-AD-DS))*
 > PowerShell · Active Directory DS · IGDLA · GPO · VLAN Segmentation
 
-Enterprise Windows Server infrastructure built for EazyPro Technologies AB : DNS, DHCP, and a 4-segment VLAN architecture (Management/Users/IoT/Guest) for traffic isolation. Uses idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and an IGDLA-based security group design built to be production ready and safe to re-run.
+Enterprise Windows Server infrastructure built for EazyPro Technologies AB: DNS, DHCP, and a 4-segment VLAN architecture (Management/Users/IoT/Guest) for traffic isolation. Uses idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and an IGDLA-based security group design built to be production ready and safe to re-run.
 
 ### AI Network Troubleshooter (CyberSentry AI)
 *(GitHub repo: [AI-Network-Troubleshooter-CyberSentry-AI](https://github.com/secexpert123/AI-Network-Troubleshooter-CyberSentry-AI))*
 > n8n · Google Gemini · AI Agent · Network Troubleshooting
 
-An AI agent that analyzes network troubleshooting requests submitted through a user form and suggests technical solutions — built to explore how AI can support IT support and diagnostics workflows.
+An AI agent that analyzes network troubleshooting requests submitted through a user form and suggests technical solutions, built to explore how AI can support IT support and diagnostics workflows.
 
 ### Industrial ERP (Ice Cream Factory)
 *(GitHub repo: [Industrial-ERP-Ice-Cream-Factory](https://github.com/secexpert123/Industrial-ERP-Ice-Cream-Factory))*
@@ -106,4 +107,4 @@ Stockholm, Sweden · 🇸🇪 Swedish Citizen
 ---
 
 *Studying Cloud & ICT Engineering at Lernia YH Stockholm, class of 2025-2027.*
-*Available now for internships and junior IT/cloud roles official LIA runs January-April 2027.*
+*Available now for internships or junior IT/cloud roles*
