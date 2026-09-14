@@ -20,7 +20,7 @@ I don't just follow tutorials. I build real systems, break them, fix them, and d
 - **ERP systems** with REST APIs, automated testing, and database backends
 - **Active Directory infrastructure** with PowerShell automation and IGDLA access models
 - **Secure cloud networks** with dual-NIC segmentation, WireGuard VPN, and Linux/Windows integration
-- **Identity & access management** with Microsoft Entra ID, MFA, SSSD, and RBAC
+- **Identity & access management** with Microsoft Entra ID, MFA, SSPR, and RBAC
 - **AI-powered tools** for network troubleshooting and diagnostics
 
 ---
@@ -43,7 +43,7 @@ A hands-on lab covering the full identity lifecycle in Microsoft Entra ID user p
 *(GitHub repo: [Enterprise-Infrastructure-AD-DS](https://github.com/secexpert123/Enterprise-Infrastructure-AD-DS))*
 > PowerShell · Active Directory DS · IGDLA · GPO · VLAN Segmentation
 
-Enterprise Windows Server infrastructure built for EazyPro Technologies AB. Uses idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and an IGDLA-based security group design built to be production ready and safe to re-run.
+Enterprise Windows Server infrastructure built for EazyPro Technologies AB : DNS, DHCP, and a 4-segment VLAN architecture (Management/Users/IoT/Guest) for traffic isolation. Uses idempotent PowerShell automation with modular functions, transcript logging, structured error handling, and an IGDLA-based security group design built to be production ready and safe to re-run.
 
 ### AI Network Troubleshooter (CyberSentry AI)
 *(GitHub repo: [AI-Network-Troubleshooter-CyberSentry-AI](https://github.com/secexpert123/AI-Network-Troubleshooter-CyberSentry-AI))*
