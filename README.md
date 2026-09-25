@@ -102,7 +102,7 @@ This is how a lot of modern engineering teams work, and it's already part of how
 ## Contact
 
 Stockholm, Sweden · 🇸🇪 Swedish Citizen
-[LinkedIn](https://linkedin.com/in/amrita162) · [GitHub](https://github.com/secexpert123) . [Websight](https://amritatech.netlify.app/)
+[LinkedIn](https://linkedin.com/in/amrita162) · [GitHub](https://github.com/secexpert123) . [website](https://amritatech.netlify.app/)
 
 ---
 
