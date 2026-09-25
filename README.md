@@ -2,7 +2,7 @@
 
 ## Hi, I'm Amrita
 ### Cloud / IT Engineer | Cloud Infrastructure & Security | Interested in Cybersecurity
-### Stockholm · Swedish Citizen
+### Stockholm 
 
 I'm studying Cloud & ICT Engineering at Lernia YH in Stockholm, building hands-on infrastructure projects in identity management, network security, and automation. My course covers AWS, Microsoft Azure, Microsoft 365, cloud service models (IaaS/PaaS/SaaS), server virtualization (VMware, Hyper-V), and IT/network security in depth. I hold a bachelor's degree in Behavioral Science and I'm fluent in Swedish and English, spoken and written.
 
